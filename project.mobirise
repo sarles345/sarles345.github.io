@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "Sarles",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -15,9 +15,9 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Slabo 27px",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       }
     },
@@ -25,7 +25,9 @@
     "uniqCompNum": 4,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -112,10 +114,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/photo-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-192x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "cstudios.in",
+              "link": "",
               "title": "",
               "linkInNewWindow": true
             },
@@ -125,8 +127,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">cutm.ac.in</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mailto:sarles@cutm.ac.in\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sarles@cutm.ac.in</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"http://cutm.ac.in/\" aria-expanded=\"true\" target=\"_blank\">Centurion University</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://cstudios.in/frontpage/videoGallery.php?lid=101&amp;cid=4\" target=\"_blank\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">sarles</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"mailto:sarles@cutm.ac.in\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">CONTACT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">sarles@cutm.ac.in</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">+91 8763 750 345<br>+91 9438 78 0548</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sarlesbhuyan.wordpress.com/\" aria-expanded=\"false\" target=\"_blank\">About ME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://viyoutube.com/channel/UCwNtORw4AJYllldjZopQYmQ/sarles%20bhuyan\" target=\"_blank\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -156,11 +158,11 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/76lY3PtRS0Y?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/CoOVdrm4_a8?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -169,7 +171,7 @@
           },
           "title": "",
           "text": "<span style=\"font-style: normal;\"></span>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://aajtak.intoday.in/livetv.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">News</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.amctheatres.com/movies\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Movies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/categories/music\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Music Videos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://documentary-movie.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Documentary</a>   "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://aajtak.intoday.in/livetv.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">News</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.foumovies.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Movies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://vimeo.com/categories/music\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Music Videos</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://documentary-movie.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Documentary</a>   "
         },
         {
           "_name": "footer1",
@@ -186,7 +188,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 cstudios"
+          "text": "Copyright (c) 2017 Sarles"
         },
         {
           "_tags": [
@@ -200,8 +202,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/mwVL60Q1IHg",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-24-18.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=1zV5j043D-4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-26-43.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -210,8 +212,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Ie0FcZrVLbU",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-25-02.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=4RJ2WoHdzo4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-27-12.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -220,8 +222,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/76lY3PtRS0Y",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-25-25.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=ivO_aDAeuww",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-27-40.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -230,8 +232,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/kgppSjnBF94",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-55-42.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=kgppSjnBF94",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-28-01.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -240,8 +242,8 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/Tzd2rZc0_-M",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-56-58.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=a07fEyBb5Mg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-37-16.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -250,32 +252,62 @@
               {
                 "tags": "Animated",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/6NkYjnDLMt4",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-58-21.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/sZlLjp68-9s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-58-35.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/3l4GC93-tH8",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-11-58-59.jpg",
+                "videoUrl": "https://youtu.be/MQ9PMIBbI1Y",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-37-53.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Fr2WGEX6QPk",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-37-35.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/99jh9_J0xX4",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-38-20.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/55AysvTewpM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-38-35.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/0pfidOWY274",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-38-51.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/5Ybc__mkiJo",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-07-14-15-39-25.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
             "spacing": 0,
@@ -314,7 +346,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/Cstudios2017\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cstudios2017/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCCH_n-shc-1m5tgyyPBVM9w\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/sarlesbhuyan\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/sarles.bhuyan.143\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.google.co.in/?hl=or&amp;gws_rd=ssl#q=sarles+bhuyan&amp;safe=active&amp;hl=or\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCwNtORw4AJYllldjZopQYmQ/videos\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/sarles345/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      "
         }
       ]
     }
